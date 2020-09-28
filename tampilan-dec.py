@@ -55,8 +55,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mCRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS        \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mIrfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -70,8 +70,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS         \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -85,8 +85,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS         \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -100,8 +100,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS       \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -115,8 +115,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mCRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS         \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mIrfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -130,8 +130,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS          \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -143,8 +143,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mCRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS         \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mIrfan Art'
         print ''
         print '\x1b[97m Umbrella Theme \x1b[93mComming Soon \x1b[97m!'
         print ''
@@ -157,8 +157,8 @@ def menu():
         time.sleep(0.5)
         os.system('clear')
         print logo
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mCRAZY EAM'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS          \x1b[90m Version 0.7.2'
+        print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube \033[00mIrfan Art'
         print ''
         time.sleep(1)
         print ' \x1b[97mTheme Installed \x1b[92mSuccessfully \x1b[97m!'
@@ -221,8 +221,8 @@ def bashrc():
     time.sleep(0.5)
     os.system('clear')
     slowprint(logo)
-    print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  Mr.Gaming          \x1b[90m Version 0.7.2'
-    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+    print '\x1b[91m \xe2\x97\x8f \x1b[97mAuthor  IRFAN CLAYKERS         \x1b[90m Version 0.7.2'
+    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
     print ''
     name = str(raw_input(' \x1b[97m[\x1b[91m\xe2\x80\xa2\x1b[97m] Username    : '))
     time.sleep(0.7)
@@ -232,8 +232,8 @@ def bashrc():
     load()
     time.sleep(0.5)
     zdn = open('bash.bashrc', 'w')
-    zdn.write('#Coded By Mr.Gaming')
-    zdn.write('\n#YouTube CRAZY EAM')
+    zdn.write('#Coded By IRFAN CLAYKERS')
+    zdn.write('\n#YouTube Irfan Art')
     zdn.write('\n\nclear')
     zdn.write('\npython2 $HOME/../usr/zidanz')
     zdn.write("\n\nPS1='\x1b[97m\xe2\x94\x8c\xe2\x94\x80[\x1b[91m" + prompt + '\x1b[97m~\x1b[90m\\w\x1b[97m] ')
@@ -319,8 +319,8 @@ def login():
     time.sleep(2)
     os.system('clear')
     slowprint(logo)
-    print '\x1b[91m \xe2\x97\x8f\x1b[97m Author  Irfan claykers         \x1b[90m Version 0.9.1'
-    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m TERMUX COMUNITY'
+    print '\x1b[91m \xe2\x97\x8f\x1b[97m Author  IRFAN CLAYKERS        \x1b[90m Version 0.9.1'
+    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m Irfan Art'
     print ''
     print '\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x9f\xa8\x1b[41m  L I S E N S I N Y A  \x1b[00m\x1b[97m\xe2\x9f\xa9\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x80\xa2'
     print '\xe2\x94\x82'
