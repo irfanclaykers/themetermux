@@ -319,13 +319,13 @@ def login():
     time.sleep(2)
     os.system('clear')
     slowprint(logo)
-    print '\x1b[91m \xe2\x97\x8f\x1b[97m Author  Mr.Gaming          \x1b[90m Version 0.9.1'
-    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m CRAZY EAM'
+    print '\x1b[91m \xe2\x97\x8f\x1b[97m Author  Irfan claykers         \x1b[90m Version 0.9.1'
+    print '\x1b[91m \xe2\x97\x8f \x1b[97mYou\033[31mTube\033[00m TERMUX COMUNITY'
     print ''
     print '\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x9f\xa8\x1b[41m  L I S E N S I N Y A  \x1b[00m\x1b[97m\xe2\x9f\xa9\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x80\xa2'
     print '\xe2\x94\x82'
     license = raw_input('\xe2\x94\x94\xe2\x94\x80\xe2\x9f\xa9 ')
-    if license in ('Nurul Khotimah', ):
+    if license in ('Irfan claykers', ):
         time.sleep(2)
         print ''
         print '\x1b[92m\xe2\x9c\x93 \x1b[97mLogin Success'
@@ -336,7 +336,7 @@ def login():
         print '\x1b[91mX \x1b[97mLogin Failed'
         print
         print '\033[91m! \033[96m Chat WhatsApp Admin Kalau Gx Tau Lisensinya'
-        os.system('xdg-open https://wa.me/+6285860322056')
+        os.system('xdg-open https://wa.me/+6282381481805')
         time.sleep(2)
         login()
 
